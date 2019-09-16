@@ -1,1 +1,6 @@
 _extends: private-global-settings
+
+
+teams:
+  - name: contractors
+    permission: pull
